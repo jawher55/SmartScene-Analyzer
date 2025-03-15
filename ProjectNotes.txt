@@ -1,0 +1,5 @@
+yyHnmjkbF472mjnqjqbQjbzwW-q2MVhcsKMJWugrY_I=
+
+finally:
+        if os.path.exists(image_path):
+            os.remove(image_path)
