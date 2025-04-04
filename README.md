@@ -1,6 +1,6 @@
 <!-- Project Banner -->
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300?text=SmartScene+Analyzer" alt="SmartScene Analyzer Banner" width="100%">
+  <img src="banner.svg" alt="SmartScene Analyzer Banner" width="100%">
 </div>
 
 # SmartScene Analyzer
@@ -209,9 +209,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Jawher Trabelsi - [LinkedIn](https://www.linkedin.com/in/jawher-trabelsi-8a033a26a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-Project Link: [https://github.com/yourusername/SmartScene-Analyzer](https://github.com/yourusername/SmartScene-Analyzer)
 
 ---
 
